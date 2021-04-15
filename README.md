@@ -8,3 +8,5 @@ Steps:
 * Converting the image to an array and splitting the data into train and test
 * Customizing the InceptionResNetV2 and training the data on it
 * Testing
+
+Trained model : https://drive.google.com/drive/folders/1ipx5F9O7WG4GCvFtU5inu79OznYYElYv?usp=sharing
